@@ -1,0 +1,39 @@
+.todoList {
+    height: 350px;
+  }
+  
+  .todoList input {
+    outline: 0%;
+    width: 200px;
+    height: 50px;
+    margin: 20px;
+  }
+  
+  .todoList ul {
+    list-style: decimal;
+  }
+  
+  .todoList ul li {
+    margin-left: 30px;
+  }
+  
+  .todoList ul li i {
+    margin-left: 5px;
+  }
+  
+  .todoListBtns button {
+    padding: 15px 45px;
+    color: #fff;
+    border-radius: 16px;
+    border: none;
+    margin: 20px;
+  }
+  
+  .todoListBtns .addBtn {
+    background-color: darkgreen;
+  }
+  
+  .todoListBtns .dltAll {
+    background-color: darkred;
+  }
+  /*# sourceMappingURL=main.css.map */
